@@ -1,26 +1,32 @@
 YouTube Channel Performance Analytics
-📊 Data-Driven Insights | 📈 Growth Optimization | 🎯 Revenue Strategies
-
 Project Overview
-This project analyzes 25B+ subscribers and 252B+ views across YouTube channels to uncover trends in viewer engagement, membership growth, and revenue generation. Leveraging SQL, Power BI, and Python, it identifies actionable strategies to boost retention, optimize content, and maximize ad/membership revenue.
+A comprehensive analysis of YouTube's ecosystem covering 25 billion subscribers and 252 billion views across multiple channels, categories, and languages. This project uncovers actionable insights to optimize content strategy, membership growth, and revenue generation.
 
-Key Insights
-✔ Music dominates views (52B) but Gaming leads subscriptions (highest subscriber count).
-✔ 33.9% annual membership growth, with 75% revenue from Premium tiers.
-✔ English content drives 39.24% of revenue (highest market share).
-✔ 4.96% membership retention rate highlights opportunities for improvement.
+Key Findings
+🎵 Music dominates views (52B) but has lower subscriber conversion
+
+🎮 Gaming leads in subscribers despite fewer views
+
+💰 75% of revenue comes from Premium memberships
+
+🌍 English content drives 39.24% of total revenue
+
+📈 33.9% annual membership growth rate
 
 Tools & Technologies
-Data Analysis: SQL
-
+Data Processing: SQL
 Visualization: Power BI
-Metrics Tracked: Subscriber growth, revenue/1k subscribers, category-wise engagement.
 
-Impact
-🚀 33% revenue increase through targeted content strategies.
-📌 20% higher retention by optimizing membership tiers (Free → Premium).
 
-Why This Matters
-This project demonstrates how data can transform content strategy—from identifying high-value categories (Gaming/Music) to refining monetization approaches (Premium tiers). Ideal for creators, marketers, and data enthusiasts!
+Project Assets
+📂 Full dataset and dashboards available here:
+https://drive.google.com/drive/folders/1XgMNzfHaXn2gOjqS0JefiJZLhdFpkGdc?usp=sharing
 
-🔍 Explore the code and dashboards to replicate these insights for any channel!
+Business Impact
+Identified opportunities to increase revenue by 33% through category optimization
+
+Recommended strategies to improve membership retention (current rate: 4.96%)
+
+Developed framework for language-specific content investment
+
+Perfect for data analysts, content strategists, and digital marketers looking to leverage YouTube analytics for growth!
