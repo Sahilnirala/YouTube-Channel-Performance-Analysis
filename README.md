@@ -11,10 +11,9 @@ Key Insights
 ✔ 4.96% membership retention rate highlights opportunities for improvement.
 
 Tools & Technologies
-Data Analysis: SQL, Python (Pandas, Matplotlib)
+Data Analysis: SQL
 
-Visualization: Power BI, Tableau
-
+Visualization: Power BI
 Metrics Tracked: Subscriber growth, revenue/1k subscribers, category-wise engagement.
 
 Impact
