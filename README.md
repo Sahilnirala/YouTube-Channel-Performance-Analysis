@@ -20,7 +20,7 @@ Visualization: Power BI
 
 Project Assets
 📂 Full dataset and dashboards available here:
-https://drive.google.com/drive/folders/1XgMNzfHaXn2gOjqS0JefiJZLhdFpkGdc?usp=sharing
+<a href = "https://drive.google.com/drive/folders/1XgMNzfHaXn2gOjqS0JefiJZLhdFpkGdc?usp=sharing"> Dataset Link</a>
 
 Business Impact
 Identified opportunities to increase revenue by 33% through category optimization
